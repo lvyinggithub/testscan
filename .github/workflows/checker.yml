@@ -15,3 +15,4 @@ jobs:
       uses: fluttercandies/no-free-usage-action@v1.0.1
       with:
         token: ${{ secrets.GHE_TOKEN }}
+        words: "你被阻挡了"
